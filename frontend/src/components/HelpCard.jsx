@@ -11,7 +11,7 @@ export default function HelpCard() {
                 <li><strong>Left 1 Finger:</strong> Forward 10s</li>
                 <li><strong>Left 2 Fingers:</strong> Backward 10s</li>
                 <li><strong>Left Thumbs Up:</strong> Like</li>
-                <li><strong>Right Pinch:</strong> Control Volume</li>
+                <li><strong>Right Pinch using index finger and thumb(only using index and thunb others at rest making a fist):</strong> Control Volume</li>
                 <li><strong>Right Open Palm / Fist:</strong> Unmute / Mute</li>
             </ul>
         </div>
